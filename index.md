@@ -16,7 +16,7 @@ I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy
 ## Projects
 * Fish inventory in Hule Lagoon, Mixed Forest Joy National Wildlife Refuge.
 
-![ ]()
+![ ](https://github.com/antoni-0299/a_aguirre.github.io/blob/main/cantones.jpeg)
 
 ## Education
 * *Bachelor's in Biology with an emphasis in Tropical Biology*  
