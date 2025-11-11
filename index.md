@@ -1,5 +1,5 @@
 # Antoni Aguirre Hernández
-![Foto de perfil](![Foto de perfil](https://raw.githubusercontent.com/antoni-0299/a_aguirre.github.io/main/foto_peril.png)
+![Foto de perfil](https://raw.githubusercontent.com/antoni-0299/a_aguirre.github.io/main/foto_peril.png)
 
 ## Brief Description
 I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy learning about these groups while working with them, as well as expanding my knowledge in other fields of biology.
