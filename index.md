@@ -1,5 +1,5 @@
 # Antoni Aguirre Hernández
-![ ](https://github.com/antoni-0299/a_aguirre.github.io/blob/main/foto_peril.png)
+![Foto de perfil](![Foto de perfil](https://raw.githubusercontent.com/antoni-0299/a_aguirre.github.io/main/foto_peril.png)
 
 ## Brief Description
 I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy learning about these groups while working with them, as well as expanding my knowledge in other fields of biology.
@@ -17,11 +17,11 @@ I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy
 * Fish inventory in Hule Lagoon, Mixed Forest Joy National Wildlife Refuge.
 * Bioclimatic factors and the colonization capacity of Parachromis friedrichsthalii in the freshwater ecosystems of Costa Rica
 
-![ ](https://github.com/antoni-0299/a_aguirre.github.io/blob/main/cantones.jpeg)
+![Mapa de cantones](https://raw.githubusercontent.com/antoni-0299/a_aguirre.github.io/main/cantones.jpeg)
 * This image represents the geographical distribution and frequency of Parachromis friedrichsthalii observations by canton in Costa Rica. The color indicates the total number of observations recorded per canton. The red dots correspond to the location of the individual occurrence records.
 
   
-![ ](https://github.com/antoni-0299/a_aguirre.github.io/blob/main/A.png)
+![Mapa ambiental](https://raw.githubusercontent.com/antoni-0299/a_aguirre.github.io/main/A.png)
 * This image shows the spatial distribution of Parachromis friedrichsthalii records overlaid on thematic maps of key environmental variables in Costa Rica. The maps display Elevation (m), Human Footprint (HFP), Mean Annual Temperature (°C), and Mean Annual Precipitation (mm). iNaturalist records are indicated in red and GBIF records in black
 
 ## Education
