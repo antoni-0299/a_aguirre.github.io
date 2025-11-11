@@ -1,5 +1,5 @@
 # Antoni Aguirre Hernández
-
+![ ](https://github.dev/antoni-0299/a_aguirre.github.io/blob/main/WhatsApp%20Image%202025-11-10%20at%205.26.28%20PM.jpeg)
 
 ## Brief Description
 I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy learning about these groups while working with them, as well as expanding my knowledge in other fields of biology.
@@ -15,6 +15,8 @@ I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy
 
 ## Projects
 * Fish inventory in Hule Lagoon, Mixed Forest Joy National Wildlife Refuge.
+
+![ ]()
 
 ## Education
 * *Bachelor's in Biology with an emphasis in Tropical Biology*  
