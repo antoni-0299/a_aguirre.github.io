@@ -44,7 +44,3 @@ I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy
 * *Email*: antoniaguirre300@gmail.com  
 * *Phone*: +506 7238-3153 
 * https://orcid.org/0009-0009-3950-0305
-
----
-
-[Visit GitHub](https://github.com/DorianCarballoU/Dorian_CarballoU.github.io)
