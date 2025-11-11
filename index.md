@@ -18,10 +18,11 @@ I'm a biology student with an interest in reptiles, fish, and arachnids. I enjoy
 * Bioclimatic factors and the colonization capacity of Parachromis friedrichsthalii in the freshwater ecosystems of Costa Rica
 
 ![ ](https://github.com/antoni-0299/a_aguirre.github.io/blob/main/cantones.jpeg)
-* This image represents the geographical distribution and frequency of Parachromis friedrichsthalii observations by canton in Costa Rica. The color indicates the total number of observations recorded per canton. The red dots correspond to the location of the individual occurrence records
+* This image represents the geographical distribution and frequency of Parachromis friedrichsthalii observations by canton in Costa Rica. The color indicates the total number of observations recorded per canton. The red dots correspond to the location of the individual occurrence records.
 
   
-![ ] ()
+![ ](https://github.com/antoni-0299/a_aguirre.github.io/blob/main/A.png)
+* This image shows the spatial distribution of Parachromis friedrichsthalii records overlaid on thematic maps of key environmental variables in Costa Rica. The maps display Elevation (m), Human Footprint (HFP), Mean Annual Temperature (°C), and Mean Annual Precipitation (mm). iNaturalist records are indicated in red and GBIF records in black
 
 ## Education
 * *Bachelor's in Biology with an emphasis in Tropical Biology*  
